@@ -1,1 +1,3 @@
-Branch Code!
+Hey! Just trying git!
+Added a line
+Fixed the problem
