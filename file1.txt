@@ -1,2 +1,1 @@
-Hey! Just trying git!
-Adding a line 
+Branch Code!
